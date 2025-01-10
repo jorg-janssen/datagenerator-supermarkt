@@ -1,0 +1,1717 @@
+[
+    {
+      "plaats": "Schiermonnikoog",
+      "provincie": "Friesland",
+      "inwoners": 971
+    },
+    {
+      "plaats": "Vlieland",
+      "provincie": "Friesland",
+      "inwoners": 1258
+    },
+    {
+      "plaats": "Rozendaal",
+      "provincie": "Gelderland",
+      "inwoners": 1831
+    },
+    {
+      "plaats": "Ameland",
+      "provincie": "Friesland",
+      "inwoners": 3832
+    },
+    {
+      "plaats": "Terschelling",
+      "provincie": "Friesland",
+      "inwoners": 4899
+    },
+    {
+      "plaats": "Renswoude",
+      "provincie": "Utrecht",
+      "inwoners": 5755
+    },
+    {
+      "plaats": "Baarle-Nassau",
+      "provincie": "Noord-Brabant",
+      "inwoners": 7077
+    },
+    {
+      "plaats": "Noord-Beveland",
+      "provincie": "Zeeland",
+      "inwoners": 7943
+    },
+    {
+      "plaats": "Mook en Middelaar",
+      "provincie": "Limburg",
+      "inwoners": 8153
+    },
+    {
+      "plaats": "Oostzaan",
+      "provincie": "Noord-Holland",
+      "inwoners": 9699
+    },
+    {
+      "plaats": "Zoeterwoude",
+      "provincie": "Zuid-Holland",
+      "inwoners": 9731
+    },
+    {
+      "plaats": "Eemnes",
+      "provincie": "Utrecht",
+      "inwoners": 9757
+    },
+    {
+      "plaats": "Vaals",
+      "provincie": "Limburg",
+      "inwoners": 10120
+    },
+    {
+      "plaats": "Oudewater",
+      "provincie": "Utrecht",
+      "inwoners": 10220
+    },
+    {
+      "plaats": "Simpelveld",
+      "provincie": "Limburg",
+      "inwoners": 10252
+    },
+    {
+      "plaats": "Scherpenzeel",
+      "provincie": "Gelderland",
+      "inwoners": 10344
+    },
+    {
+      "plaats": "Alphen-Chaam",
+      "provincie": "Noord-Brabant",
+      "inwoners": 10492
+    },
+    {
+      "plaats": "Doesburg",
+      "provincie": "Gelderland",
+      "inwoners": 11081
+    },
+    {
+      "plaats": "Boekel",
+      "provincie": "Noord-Brabant",
+      "inwoners": 11302
+    },
+    {
+      "plaats": "Laren",
+      "provincie": "Noord-Holland",
+      "inwoners": 11440
+    },
+    {
+      "plaats": "Landsmeer",
+      "provincie": "Noord-Holland",
+      "inwoners": 11660
+    },
+    {
+      "plaats": "Opmeer",
+      "provincie": "Noord-Holland",
+      "inwoners": 12222
+    },
+    {
+      "plaats": "Voerendaal",
+      "provincie": "Limburg",
+      "inwoners": 12378
+    },
+    {
+      "plaats": "Pekela",
+      "provincie": "Groningen",
+      "inwoners": 12519
+    },
+    {
+      "plaats": "Hattem",
+      "provincie": "Gelderland",
+      "inwoners": 12623
+    },
+    {
+      "plaats": "Blaricum",
+      "provincie": "Noord-Holland",
+      "inwoners": 12725
+    },
+    {
+      "plaats": "Kapelle",
+      "provincie": "Zeeland",
+      "inwoners": 13011
+    },
+    {
+      "plaats": "Bergen",
+      "provincie": "Limburg",
+      "inwoners": 13151
+    },
+    {
+      "plaats": "Beesel",
+      "provincie": "Limburg",
+      "inwoners": 13393
+    },
+    {
+      "plaats": "Uitgeest",
+      "provincie": "Noord-Holland",
+      "inwoners": 13407
+    },
+    {
+      "plaats": "Reusel-De Mierden",
+      "provincie": "Noord-Brabant",
+      "inwoners": 13577
+    },
+    {
+      "plaats": "Texel",
+      "provincie": "Noord-Holland",
+      "inwoners": 13814
+    },
+    {
+      "plaats": "Montfoort",
+      "provincie": "Utrecht",
+      "inwoners": 13860
+    },
+    {
+      "plaats": "Gulpen-Wittem",
+      "provincie": "Limburg",
+      "inwoners": 14056
+    },
+    {
+      "plaats": "Ouder-Amstel",
+      "provincie": "Noord-Holland",
+      "inwoners": 14450
+    },
+    {
+      "plaats": "Woudenberg",
+      "provincie": "Utrecht",
+      "inwoners": 14633
+    },
+    {
+      "plaats": "Lopik",
+      "provincie": "Utrecht",
+      "inwoners": 14723
+    },
+    {
+      "plaats": "Westervoort",
+      "provincie": "Gelderland",
+      "inwoners": 15152
+    },
+    {
+      "plaats": "Hilvarenbeek",
+      "provincie": "Noord-Brabant",
+      "inwoners": 15966
+    },
+    {
+      "plaats": "Bunnik",
+      "provincie": "Utrecht",
+      "inwoners": 16116
+    },
+    {
+      "plaats": "Harlingen",
+      "provincie": "Friesland",
+      "inwoners": 16212
+    },
+    {
+      "plaats": "Beek",
+      "provincie": "Limburg",
+      "inwoners": 16216
+    },
+    {
+      "plaats": "Valkenburg aan de Geul",
+      "provincie": "Limburg",
+      "inwoners": 16425
+    },
+    {
+      "plaats": "Wormerland",
+      "provincie": "Noord-Holland",
+      "inwoners": 16560
+    },
+    {
+      "plaats": "Heeze-Leende",
+      "provincie": "Noord-Brabant",
+      "inwoners": 16800
+    },
+    {
+      "plaats": "Heumen",
+      "provincie": "Gelderland",
+      "inwoners": 16839
+    },
+    {
+      "plaats": "Asten",
+      "provincie": "Noord-Brabant",
+      "inwoners": 17294
+    },
+    {
+      "plaats": "Zandvoort",
+      "provincie": "Noord-Holland",
+      "inwoners": 17473
+    },
+    {
+      "plaats": "Nederweert",
+      "provincie": "Limburg",
+      "inwoners": 17492
+    },
+    {
+      "plaats": "Waterland",
+      "provincie": "Noord-Holland",
+      "inwoners": 17529
+    },
+    {
+      "plaats": "Staphorst",
+      "provincie": "Overijssel",
+      "inwoners": 17738
+    },
+    {
+      "plaats": "Gennep",
+      "provincie": "Limburg",
+      "inwoners": 17790
+    },
+    {
+      "plaats": "Son en Breugel",
+      "provincie": "Noord-Brabant",
+      "inwoners": 17949
+    },
+    {
+      "plaats": "Waalre",
+      "provincie": "Noord-Brabant",
+      "inwoners": 17995
+    },
+    {
+      "plaats": "Meerssen",
+      "provincie": "Limburg",
+      "inwoners": 18568
+    },
+    {
+      "plaats": "Hardinxveld-Giessendam",
+      "provincie": "Zuid-Holland",
+      "inwoners": 18760
+    },
+    {
+      "plaats": "Olst-Wijhe",
+      "provincie": "Overijssel",
+      "inwoners": 18843
+    },
+    {
+      "plaats": "Enkhuizen",
+      "provincie": "Noord-Holland",
+      "inwoners": 18901
+    },
+    {
+      "plaats": "Ommen",
+      "provincie": "Overijssel",
+      "inwoners": 19035
+    },
+    {
+      "plaats": "Dantumadeel",
+      "provincie": "Friesland",
+      "inwoners": 19135
+    },
+    {
+      "plaats": "Bergeijk",
+      "provincie": "Noord-Brabant",
+      "inwoners": 19193
+    },
+    {
+      "plaats": "Heerde",
+      "provincie": "Gelderland",
+      "inwoners": 19227
+    },
+    {
+      "plaats": "Oirschot",
+      "provincie": "Noord-Brabant",
+      "inwoners": 19267
+    },
+    {
+      "plaats": "Midden-Delfland",
+      "provincie": "Zuid-Holland",
+      "inwoners": 19382
+    },
+    {
+      "plaats": "Druten",
+      "provincie": "Gelderland",
+      "inwoners": 19581
+    },
+    {
+      "plaats": "Westerveld",
+      "provincie": "Drenthe",
+      "inwoners": 20000
+    },
+    {
+      "plaats": "Someren",
+      "provincie": "Noord-Brabant",
+      "inwoners": 20187
+    },
+    {
+      "plaats": "Eersel",
+      "provincie": "Noord-Brabant",
+      "inwoners": 20188
+    },
+    {
+      "plaats": "Rhenen",
+      "provincie": "Utrecht",
+      "inwoners": 20238
+    },
+    {
+      "plaats": "Alblasserdam",
+      "provincie": "Zuid-Holland",
+      "inwoners": 20306
+    },
+    {
+      "plaats": "West Maas en Waal",
+      "provincie": "Gelderland",
+      "inwoners": 20327
+    },
+    {
+      "plaats": "Drechterland",
+      "provincie": "Noord-Holland",
+      "inwoners": 20498
+    },
+    {
+      "plaats": "Roerdalen",
+      "provincie": "Limburg",
+      "inwoners": 20806
+    },
+    {
+      "plaats": "Cranendonck",
+      "provincie": "Noord-Brabant",
+      "inwoners": 20866
+    },
+    {
+      "plaats": "Bladel",
+      "provincie": "Noord-Brabant",
+      "inwoners": 20980
+    },
+    {
+      "plaats": "Brummen",
+      "provincie": "Gelderland",
+      "inwoners": 21282
+    },
+    {
+      "plaats": "Tubbergen",
+      "provincie": "Overijssel",
+      "inwoners": 21393
+    },
+    {
+      "plaats": "Urk",
+      "provincie": "Flevoland",
+      "inwoners": 21929
+    },
+    {
+      "plaats": "Geertruidenberg",
+      "provincie": "Noord-Brabant",
+      "inwoners": 22061
+    },
+    {
+      "plaats": "Veere",
+      "provincie": "Zeeland",
+      "inwoners": 22067
+    },
+    {
+      "plaats": "Woensdrecht",
+      "provincie": "Noord-Brabant",
+      "inwoners": 22215
+    },
+    {
+      "plaats": "Stede Broec",
+      "provincie": "Noord-Holland",
+      "inwoners": 22216
+    },
+    {
+      "plaats": "Zundert",
+      "provincie": "Noord-Brabant",
+      "inwoners": 22545
+    },
+    {
+      "plaats": "Bonaire",
+      "provincie": "Caribisch Nederland",
+      "inwoners": 22573
+    },
+    {
+      "plaats": "Bunschoten",
+      "provincie": "Utrecht",
+      "inwoners": 22620
+    },
+    {
+      "plaats": "Hillegom",
+      "provincie": "Zuid-Holland",
+      "inwoners": 22826
+    },
+    {
+      "plaats": "Borsele",
+      "provincie": "Zeeland",
+      "inwoners": 23116
+    },
+    {
+      "plaats": "Sluis",
+      "provincie": "Zeeland",
+      "inwoners": 23152
+    },
+    {
+      "plaats": "Laarbeek",
+      "provincie": "Noord-Brabant",
+      "inwoners": 23233
+    },
+    {
+      "plaats": "Reimerswaal",
+      "provincie": "Zeeland",
+      "inwoners": 23325
+    },
+    {
+      "plaats": "Losser",
+      "provincie": "Overijssel",
+      "inwoners": 23380
+    },
+    {
+      "plaats": "Lisse",
+      "provincie": "Zuid-Holland",
+      "inwoners": 23442
+    },
+    {
+      "plaats": "Zwartewaterland",
+      "provincie": "Overijssel",
+      "inwoners": 23447
+    },
+    {
+      "plaats": "Koggenland",
+      "provincie": "Noord-Holland",
+      "inwoners": 23580
+    },
+    {
+      "plaats": "Bloemendaal",
+      "provincie": "Noord-Holland",
+      "inwoners": 23782
+    },
+    {
+      "plaats": "Loon op Zand",
+      "provincie": "Noord-Brabant",
+      "inwoners": 23854
+    },
+    {
+      "plaats": "Zeewolde",
+      "provincie": "Flevoland",
+      "inwoners": 23883
+    },
+    {
+      "plaats": "Elburg",
+      "provincie": "Gelderland",
+      "inwoners": 23906
+    },
+    {
+      "plaats": "Rucphen",
+      "provincie": "Noord-Brabant",
+      "inwoners": 23924
+    },
+    {
+      "plaats": "Wijk bij Duurstede",
+      "provincie": "Utrecht",
+      "inwoners": 23953
+    },
+    {
+      "plaats": "Nuenen ca",
+      "provincie": "Noord-Brabant",
+      "inwoners": 24231
+    },
+    {
+      "plaats": "Oldebroek",
+      "provincie": "Gelderland",
+      "inwoners": 24276
+    },
+    {
+      "plaats": "Goirle",
+      "provincie": "Noord-Brabant",
+      "inwoners": 24328
+    },
+    {
+      "plaats": "Haaksbergen",
+      "provincie": "Overijssel",
+      "inwoners": 24360
+    },
+    {
+      "plaats": "Maasgouw",
+      "provincie": "Limburg",
+      "inwoners": 24404
+    },
+    {
+      "plaats": "Steenbergen",
+      "provincie": "Noord-Brabant",
+      "inwoners": 24498
+    },
+    {
+      "plaats": "De Wolden",
+      "provincie": "Drenthe",
+      "inwoners": 24582
+    },
+    {
+      "plaats": "Wijdemeren",
+      "provincie": "Noord-Holland",
+      "inwoners": 24608
+    },
+    {
+      "plaats": "Borne",
+      "provincie": "Overijssel",
+      "inwoners": 24632
+    },
+    {
+      "plaats": "Stein",
+      "provincie": "Limburg",
+      "inwoners": 24748
+    },
+    {
+      "plaats": "Duiven",
+      "provincie": "Gelderland",
+      "inwoners": 24869
+    },
+    {
+      "plaats": "Heiloo",
+      "provincie": "Noord-Holland",
+      "inwoners": 24906
+    },
+    {
+      "plaats": "Wierden",
+      "provincie": "Overijssel",
+      "inwoners": 24929
+    },
+    {
+      "plaats": "Putten",
+      "provincie": "Gelderland",
+      "inwoners": 24975
+    },
+    {
+      "plaats": "Baarn",
+      "provincie": "Utrecht",
+      "inwoners": 25062
+    },
+    {
+      "plaats": "Voorst",
+      "provincie": "Gelderland",
+      "inwoners": 25383
+    },
+    {
+      "plaats": "Voorschoten",
+      "provincie": "Zuid-Holland",
+      "inwoners": 25618
+    },
+    {
+      "plaats": "Neder-Betuwe",
+      "provincie": "Gelderland",
+      "inwoners": 25701
+    },
+    {
+      "plaats": "Ooststellingwerf",
+      "provincie": "Friesland",
+      "inwoners": 25825
+    },
+    {
+      "plaats": "Aa en Hunze",
+      "provincie": "Drenthe",
+      "inwoners": 25853
+    },
+    {
+      "plaats": "Oegstgeest",
+      "provincie": "Zuid-Holland",
+      "inwoners": 25939
+    },
+    {
+      "plaats": "Borger-Odoorn",
+      "provincie": "Drenthe",
+      "inwoners": 26014
+    },
+    {
+      "plaats": "Eijsden-Margraten",
+      "provincie": "Limburg",
+      "inwoners": 26034
+    },
+    {
+      "plaats": "Maasdriel",
+      "provincie": "Gelderland",
+      "inwoners": 26190
+    },
+    {
+      "plaats": "Sliedrecht",
+      "provincie": "Zuid-Holland",
+      "inwoners": 26270
+    },
+    {
+      "plaats": "Albrandswaard",
+      "provincie": "Zuid-Holland",
+      "inwoners": 26431
+    },
+    {
+      "plaats": "Weststellingwerf",
+      "provincie": "Friesland",
+      "inwoners": 26493
+    },
+    {
+      "plaats": "Westerwolde",
+      "provincie": "Groningen",
+      "inwoners": 26558
+    },
+    {
+      "plaats": "Beuningen",
+      "provincie": "Gelderland",
+      "inwoners": 26723
+    },
+    {
+      "plaats": "Dinkelland",
+      "provincie": "Overijssel",
+      "inwoners": 26741
+    },
+    {
+      "plaats": "Tholen",
+      "provincie": "Zeeland",
+      "inwoners": 26864
+    },
+    {
+      "plaats": "Dongen",
+      "provincie": "Noord-Brabant",
+      "inwoners": 27096
+    },
+    {
+      "plaats": "Wassenaar",
+      "provincie": "Zuid-Holland",
+      "inwoners": 27108
+    },
+    {
+      "plaats": "Aalten",
+      "provincie": "Gelderland",
+      "inwoners": 27308
+    },
+    {
+      "plaats": "Hulst",
+      "provincie": "Zeeland",
+      "inwoners": 27331
+    },
+    {
+      "plaats": "Gilze en Rijen",
+      "provincie": "Noord-Brabant",
+      "inwoners": 27359
+    },
+    {
+      "plaats": "Veendam",
+      "provincie": "Groningen",
+      "inwoners": 27517
+    },
+    {
+      "plaats": "Heemstede",
+      "provincie": "Noord-Holland",
+      "inwoners": 27589
+    },
+    {
+      "plaats": "Leiderdorp",
+      "provincie": "Zuid-Holland",
+      "inwoners": 27708
+    },
+    {
+      "plaats": "Brunssum",
+      "provincie": "Limburg",
+      "inwoners": 27773
+    },
+    {
+      "plaats": "Buren",
+      "provincie": "Gelderland",
+      "inwoners": 27777
+    },
+    {
+      "plaats": "Ermelo",
+      "provincie": "Gelderland",
+      "inwoners": 27859
+    },
+    {
+      "plaats": "Drimmelen",
+      "provincie": "Noord-Brabant",
+      "inwoners": 28193
+    },
+    {
+      "plaats": "Achtkarspelen",
+      "provincie": "Friesland",
+      "inwoners": 28226
+    },
+    {
+      "plaats": "Nunspeet",
+      "provincie": "Gelderland",
+      "inwoners": 29074
+    },
+    {
+      "plaats": "Kaag en Braassem",
+      "provincie": "Zuid-Holland",
+      "inwoners": 29167
+    },
+    {
+      "plaats": "Winterswijk",
+      "provincie": "Gelderland",
+      "inwoners": 29235
+    },
+    {
+      "plaats": "Nieuwkoop",
+      "provincie": "Zuid-Holland",
+      "inwoners": 29499
+    },
+    {
+      "plaats": "Krimpen aan den IJssel",
+      "provincie": "Zuid-Holland",
+      "inwoners": 29630
+    },
+    {
+      "plaats": "Dalfsen",
+      "provincie": "Overijssel",
+      "inwoners": 29684
+    },
+    {
+      "plaats": "Culemborg",
+      "provincie": "Gelderland",
+      "inwoners": 29931
+    },
+    {
+      "plaats": "Bergen",
+      "provincie": "Noord-Holland",
+      "inwoners": 29933
+    },
+    {
+      "plaats": "Oost Gelre",
+      "provincie": "Gelderland",
+      "inwoners": 29971
+    },
+    {
+      "plaats": "Opsterland",
+      "provincie": "Friesland",
+      "inwoners": 30056
+    },
+    {
+      "plaats": "Sint-Michielsgestel",
+      "provincie": "Noord-Brabant",
+      "inwoners": 30091
+    },
+    {
+      "plaats": "Zaltbommel",
+      "provincie": "Gelderland",
+      "inwoners": 30418
+    },
+    {
+      "plaats": "Halderberge",
+      "provincie": "Noord-Brabant",
+      "inwoners": 31183
+    },
+    {
+      "plaats": "Best",
+      "provincie": "Noord-Brabant",
+      "inwoners": 31220
+    },
+    {
+      "plaats": "Renkum",
+      "provincie": "Gelderland",
+      "inwoners": 31419
+    },
+    {
+      "plaats": "Gemert-Bakel",
+      "provincie": "Noord-Brabant",
+      "inwoners": 31428
+    },
+    {
+      "plaats": "Leusden",
+      "provincie": "Utrecht",
+      "inwoners": 31669
+    },
+    {
+      "plaats": "Noordenveld",
+      "provincie": "Drenthe",
+      "inwoners": 31674
+    },
+    {
+      "plaats": "Valkenswaard",
+      "provincie": "Noord-Brabant",
+      "inwoners": 31700
+    },
+    {
+      "plaats": "Uithoorn",
+      "provincie": "Noord-Holland",
+      "inwoners": 31701
+    },
+    {
+      "plaats": "Oldenzaal",
+      "provincie": "Overijssel",
+      "inwoners": 31794
+    },
+    {
+      "plaats": "Stadskanaal",
+      "provincie": "Groningen",
+      "inwoners": 31993
+    },
+    {
+      "plaats": "Echt-Susteren",
+      "provincie": "Limburg",
+      "inwoners": 32037
+    },
+    {
+      "plaats": "Papendrecht",
+      "provincie": "Zuid-Holland",
+      "inwoners": 32174
+    },
+    {
+      "plaats": "Vught",
+      "provincie": "Noord-Brabant",
+      "inwoners": 32348
+    },
+    {
+      "plaats": "Bernheze",
+      "provincie": "Noord-Brabant",
+      "inwoners": 32521
+    },
+    {
+      "plaats": "Tietjerksteradeel",
+      "provincie": "Friesland",
+      "inwoners": 32601
+    },
+    {
+      "plaats": "Hendrik-Ido-Ambacht",
+      "provincie": "Zuid-Holland",
+      "inwoners": 32685
+    },
+    {
+      "plaats": "Oisterwijk",
+      "provincie": "Noord-Brabant",
+      "inwoners": 32964
+    },
+    {
+      "plaats": "Diemen",
+      "provincie": "Noord-Holland",
+      "inwoners": 33012
+    },
+    {
+      "plaats": "Epe",
+      "provincie": "Gelderland",
+      "inwoners": 33168
+    },
+    {
+      "plaats": "Deurne",
+      "provincie": "Noord-Brabant",
+      "inwoners": 33183
+    },
+    {
+      "plaats": "Aalsmeer",
+      "provincie": "Noord-Holland",
+      "inwoners": 33354
+    },
+    {
+      "plaats": "IJsselstein",
+      "provincie": "Utrecht",
+      "inwoners": 33424
+    },
+    {
+      "plaats": "Boxtel",
+      "provincie": "Noord-Brabant",
+      "inwoners": 33934
+    },
+    {
+      "plaats": "Waddinxveen",
+      "provincie": "Zuid-Holland",
+      "inwoners": 34000
+    },
+    {
+      "plaats": "Twenterand",
+      "provincie": "Overijssel",
+      "inwoners": 34071
+    },
+    {
+      "plaats": "Midden-Drenthe",
+      "provincie": "Drenthe",
+      "inwoners": 34093
+    },
+    {
+      "plaats": "Lochem",
+      "provincie": "Gelderland",
+      "inwoners": 34314
+    },
+    {
+      "plaats": "Schouwen-Duiveland",
+      "provincie": "Zeeland",
+      "inwoners": 34631
+    },
+    {
+      "plaats": "Tynaarlo",
+      "provincie": "Drenthe",
+      "inwoners": 34730
+    },
+    {
+      "plaats": "Hof van Twente",
+      "provincie": "Overijssel",
+      "inwoners": 35438
+    },
+    {
+      "plaats": "Berg en Dal",
+      "provincie": "Gelderland",
+      "inwoners": 35478
+    },
+    {
+      "plaats": "Coevorden",
+      "provincie": "Drenthe",
+      "inwoners": 35723
+    },
+    {
+      "plaats": "Meppel",
+      "provincie": "Drenthe",
+      "inwoners": 35814
+    },
+    {
+      "plaats": "Maassluis",
+      "provincie": "Zuid-Holland",
+      "inwoners": 35826
+    },
+    {
+      "plaats": "Beekdaelen",
+      "provincie": "Limburg",
+      "inwoners": 35892
+    },
+    {
+      "plaats": "Leudal",
+      "provincie": "Limburg",
+      "inwoners": 36018
+    },
+    {
+      "plaats": "Bronckhorst",
+      "provincie": "Gelderland",
+      "inwoners": 36119
+    },
+    {
+      "plaats": "Hellendoorn",
+      "provincie": "Overijssel",
+      "inwoners": 36271
+    },
+    {
+      "plaats": "Castricum",
+      "provincie": "Noord-Holland",
+      "inwoners": 36369
+    },
+    {
+      "plaats": "Bodegraven-Reeuwijk",
+      "provincie": "Zuid-Holland",
+      "inwoners": 36563
+    },
+    {
+      "plaats": "Montferland",
+      "provincie": "Gelderland",
+      "inwoners": 36879
+    },
+    {
+      "plaats": "Edam-Volendam",
+      "provincie": "Noord-Holland",
+      "inwoners": 36920
+    },
+    {
+      "plaats": "Landgraaf",
+      "provincie": "Limburg",
+      "inwoners": 37105
+    },
+    {
+      "plaats": "Moerdijk",
+      "provincie": "Noord-Brabant",
+      "inwoners": 38091
+    },
+    {
+      "plaats": "Raalte",
+      "provincie": "Overijssel",
+      "inwoners": 38364
+    },
+    {
+      "plaats": "Teylingen",
+      "provincie": "Zuid-Holland",
+      "inwoners": 38472
+    },
+    {
+      "plaats": "Rijssen-Holten",
+      "provincie": "Overijssel",
+      "inwoners": 38676
+    },
+    {
+      "plaats": "Gorinchem",
+      "provincie": "Zuid-Holland",
+      "inwoners": 38682
+    },
+    {
+      "plaats": "Oude IJsselstreek",
+      "provincie": "Gelderland",
+      "inwoners": 39396
+    },
+    {
+      "plaats": "Oldambt",
+      "provincie": "Groningen",
+      "inwoners": 39421
+    },
+    {
+      "plaats": "Heemskerk",
+      "provincie": "Noord-Holland",
+      "inwoners": 39435
+    },
+    {
+      "plaats": "Goes",
+      "provincie": "Zeeland",
+      "inwoners": 39677
+    },
+    {
+      "plaats": "Geldrop-Mierlo",
+      "provincie": "Noord-Brabant",
+      "inwoners": 40736
+    },
+    {
+      "plaats": "Huizen",
+      "provincie": "Noord-Holland",
+      "inwoners": 41205
+    },
+    {
+      "plaats": "Wijchen",
+      "provincie": "Gelderland",
+      "inwoners": 41543
+    },
+    {
+      "plaats": "Tiel",
+      "provincie": "Gelderland",
+      "inwoners": 42372
+    },
+    {
+      "plaats": "Wageningen",
+      "provincie": "Gelderland",
+      "inwoners": 42616
+    },
+    {
+      "plaats": "Beverwijk",
+      "provincie": "Noord-Holland",
+      "inwoners": 42893
+    },
+    {
+      "plaats": "Rheden",
+      "provincie": "Gelderland",
+      "inwoners": 43656
+    },
+    {
+      "plaats": "De Bilt",
+      "provincie": "Utrecht",
+      "inwoners": 43709
+    },
+    {
+      "plaats": "Horst aan de Maas",
+      "provincie": "Limburg",
+      "inwoners": 43923
+    },
+    {
+      "plaats": "Berkelland",
+      "provincie": "Gelderland",
+      "inwoners": 43928
+    },
+    {
+      "plaats": "Dronten",
+      "provincie": "Flevoland",
+      "inwoners": 44337
+    },
+    {
+      "plaats": "Venray",
+      "provincie": "Limburg",
+      "inwoners": 44668
+    },
+    {
+      "plaats": "Zwijndrecht",
+      "provincie": "Zuid-Holland",
+      "inwoners": 44870
+    },
+    {
+      "plaats": "Zevenaar",
+      "provincie": "Gelderland",
+      "inwoners": 45050
+    },
+    {
+      "plaats": "Eemsdelta",
+      "provincie": "Groningen",
+      "inwoners": 45098
+    },
+    {
+      "plaats": "Etten-Leur",
+      "provincie": "Noord-Brabant",
+      "inwoners": 45232
+    },
+    {
+      "plaats": "Molenlanden",
+      "provincie": "Zuid-Holland",
+      "inwoners": 45276
+    },
+    {
+      "plaats": "Kerkrade",
+      "provincie": "Limburg",
+      "inwoners": 45302
+    },
+    {
+      "plaats": "Nijkerk",
+      "provincie": "Gelderland",
+      "inwoners": 45358
+    },
+    {
+      "plaats": "Vlissingen",
+      "provincie": "Zeeland",
+      "inwoners": 45410
+    },
+    {
+      "plaats": "Steenwijkerland",
+      "provincie": "Overijssel",
+      "inwoners": 45480
+    },
+    {
+      "plaats": "Peel en Maas",
+      "provincie": "Limburg",
+      "inwoners": 45551
+    },
+    {
+      "plaats": "Noordwijk",
+      "provincie": "Zuid-Holland",
+      "inwoners": 45732
+    },
+    {
+      "plaats": "De Ronde Venen",
+      "provincie": "Utrecht",
+      "inwoners": 45812
+    },
+    {
+      "plaats": "Noardeast-Fryslân",
+      "provincie": "Friesland",
+      "inwoners": 45870
+    },
+    {
+      "plaats": "Medemblik",
+      "provincie": "Noord-Holland",
+      "inwoners": 46005
+    },
+    {
+      "plaats": "Heusden",
+      "provincie": "Noord-Brabant",
+      "inwoners": 46037
+    },
+    {
+      "plaats": "Veldhoven",
+      "provincie": "Noord-Brabant",
+      "inwoners": 46826
+    },
+    {
+      "plaats": "Waadhoeke",
+      "provincie": "Friesland",
+      "inwoners": 46910
+    },
+    {
+      "plaats": "Lingewaard",
+      "provincie": "Gelderland",
+      "inwoners": 47342
+    },
+    {
+      "plaats": "Soest",
+      "provincie": "Utrecht",
+      "inwoners": 47685
+    },
+    {
+      "plaats": "Ridderkerk",
+      "provincie": "Zuid-Holland",
+      "inwoners": 47713
+    },
+    {
+      "plaats": "Schagen",
+      "provincie": "Noord-Holland",
+      "inwoners": 47734
+    },
+    {
+      "plaats": "Zuidplas",
+      "provincie": "Zuid-Holland",
+      "inwoners": 47826
+    },
+    {
+      "plaats": "Het Hogeland",
+      "provincie": "Groningen",
+      "inwoners": 48228
+    },
+    {
+      "plaats": "Barendrecht",
+      "provincie": "Zuid-Holland",
+      "inwoners": 48689
+    },
+    {
+      "plaats": "Zutphen",
+      "provincie": "Gelderland",
+      "inwoners": 48746
+    },
+    {
+      "plaats": "Overbetuwe",
+      "provincie": "Gelderland",
+      "inwoners": 48909
+    },
+    {
+      "plaats": "Harderwijk",
+      "provincie": "Gelderland",
+      "inwoners": 49378
+    },
+    {
+      "plaats": "Hollands Kroon",
+      "provincie": "Noord-Holland",
+      "inwoners": 49524
+    },
+    {
+      "plaats": "Middelburg",
+      "provincie": "Zeeland",
+      "inwoners": 50002
+    },
+    {
+      "plaats": "Noordoostpolder",
+      "provincie": "Flevoland",
+      "inwoners": 50050
+    },
+    {
+      "plaats": "Waalwijk",
+      "provincie": "Noord-Brabant",
+      "inwoners": 50310
+    },
+    {
+      "plaats": "Utrechtse Heuvelrug",
+      "provincie": "Utrecht",
+      "inwoners": 50553
+    },
+    {
+      "plaats": "Houten",
+      "provincie": "Utrecht",
+      "inwoners": 50855
+    },
+    {
+      "plaats": "Weert",
+      "provincie": "Limburg",
+      "inwoners": 51060
+    },
+    {
+      "plaats": "Heerenveen",
+      "provincie": "Friesland",
+      "inwoners": 51794
+    },
+    {
+      "plaats": "Goeree-Overflakkee",
+      "provincie": "Zuid-Holland",
+      "inwoners": 51860
+    },
+    {
+      "plaats": "De Friese Meren",
+      "provincie": "Friesland",
+      "inwoners": 51928
+    },
+    {
+      "plaats": "West Betuwe",
+      "provincie": "Gelderland",
+      "inwoners": 52947
+    },
+    {
+      "plaats": "Woerden",
+      "provincie": "Utrecht",
+      "inwoners": 53730
+    },
+    {
+      "plaats": "Terneuzen",
+      "provincie": "Zeeland",
+      "inwoners": 55128
+    },
+    {
+      "plaats": "Kampen",
+      "provincie": "Overijssel",
+      "inwoners": 56186
+    },
+    {
+      "plaats": "Den Helder",
+      "provincie": "Noord-Holland",
+      "inwoners": 56452
+    },
+    {
+      "plaats": "Hoogeveen",
+      "provincie": "Drenthe",
+      "inwoners": 56581
+    },
+    {
+      "plaats": "Smallingerland",
+      "provincie": "Friesland",
+      "inwoners": 56654
+    },
+    {
+      "plaats": "Krimpenerwaard",
+      "provincie": "Zuid-Holland",
+      "inwoners": 57775
+    },
+    {
+      "plaats": "Oosterhout",
+      "provincie": "Noord-Brabant",
+      "inwoners": 57925
+    },
+    {
+      "plaats": "Pijnacker-Nootdorp",
+      "provincie": "Zuid-Holland",
+      "inwoners": 57948
+    },
+    {
+      "plaats": "Altena",
+      "provincie": "Noord-Brabant",
+      "inwoners": 58293
+    },
+    {
+      "plaats": "Maashorst",
+      "provincie": "Noord-Brabant",
+      "inwoners": 59209
+    },
+    {
+      "plaats": "Doetinchem",
+      "provincie": "Gelderland",
+      "inwoners": 59613
+    },
+    {
+      "plaats": "Rijswijk",
+      "provincie": "Zuid-Holland",
+      "inwoners": 59640
+    },
+    {
+      "plaats": "Gooise Meren",
+      "provincie": "Noord-Holland",
+      "inwoners": 60353
+    },
+    {
+      "plaats": "Roermond",
+      "provincie": "Limburg",
+      "inwoners": 60749
+    },
+    {
+      "plaats": "Midden-Groningen",
+      "provincie": "Groningen",
+      "inwoners": 61450
+    },
+    {
+      "plaats": "Vijfheerenlanden",
+      "provincie": "Utrecht",
+      "inwoners": 61650
+    },
+    {
+      "plaats": "Barneveld",
+      "provincie": "Gelderland",
+      "inwoners": 62603
+    },
+    {
+      "plaats": "Hardenberg",
+      "provincie": "Overijssel",
+      "inwoners": 62935
+    },
+    {
+      "plaats": "Westerkwartier",
+      "provincie": "Groningen",
+      "inwoners": 64893
+    },
+    {
+      "plaats": "Lansingerland",
+      "provincie": "Zuid-Holland",
+      "inwoners": 65600
+    },
+    {
+      "plaats": "Stichtse Vecht",
+      "provincie": "Utrecht",
+      "inwoners": 65893
+    },
+    {
+      "plaats": "Nieuwegein",
+      "provincie": "Utrecht",
+      "inwoners": 65974
+    },
+    {
+      "plaats": "Zeist",
+      "provincie": "Utrecht",
+      "inwoners": 66623
+    },
+    {
+      "plaats": "Katwijk",
+      "provincie": "Zuid-Holland",
+      "inwoners": 66960
+    },
+    {
+      "plaats": "Capelle aan den IJssel",
+      "provincie": "Zuid-Holland",
+      "inwoners": 67948
+    },
+    {
+      "plaats": "Velsen",
+      "provincie": "Noord-Holland",
+      "inwoners": 69238
+    },
+    {
+      "plaats": "Veenendaal",
+      "provincie": "Utrecht",
+      "inwoners": 69437
+    },
+    {
+      "plaats": "Bergen op Zoom",
+      "provincie": "Noord-Brabant",
+      "inwoners": 69663
+    },
+    {
+      "plaats": "Assen",
+      "provincie": "Drenthe",
+      "inwoners": 69691
+    },
+    {
+      "plaats": "Voorne aan Zee",
+      "provincie": "Zuid-Holland",
+      "inwoners": 73993
+    },
+    {
+      "plaats": "Almelo",
+      "provincie": "Overijssel",
+      "inwoners": 74355
+    },
+    {
+      "plaats": "Hoorn",
+      "provincie": "Noord-Holland",
+      "inwoners": 75621
+    },
+    {
+      "plaats": "Gouda",
+      "provincie": "Zuid-Holland",
+      "inwoners": 75763
+    },
+    {
+      "plaats": "Vlaardingen",
+      "provincie": "Zuid-Holland",
+      "inwoners": 76472
+    },
+    {
+      "plaats": "Roosendaal",
+      "provincie": "Noord-Brabant",
+      "inwoners": 77566
+    },
+    {
+      "plaats": "Leidschendam-Voorburg",
+      "provincie": "Zuid-Holland",
+      "inwoners": 78246
+    },
+    {
+      "plaats": "Schiedam",
+      "provincie": "Zuid-Holland",
+      "inwoners": 81855
+    },
+    {
+      "plaats": "Hengelo",
+      "provincie": "Overijssel",
+      "inwoners": 83051
+    },
+    {
+      "plaats": "Lelystad",
+      "provincie": "Flevoland",
+      "inwoners": 84091
+    },
+    {
+      "plaats": "Meierijstad",
+      "provincie": "Noord-Brabant",
+      "inwoners": 84293
+    },
+    {
+      "plaats": "Heerlen",
+      "provincie": "Limburg",
+      "inwoners": 87498
+    },
+    {
+      "plaats": "Nissewaard",
+      "provincie": "Zuid-Holland",
+      "inwoners": 87626
+    },
+    {
+      "plaats": "Dijk en Waard",
+      "provincie": "Noord-Holland",
+      "inwoners": 90050
+    },
+    {
+      "plaats": "Hoeksche Waard",
+      "provincie": "Zuid-Holland",
+      "inwoners": 90257
+    },
+    {
+      "plaats": "Súdwest-Fryslân",
+      "provincie": "Friesland",
+      "inwoners": 90435
+    },
+    {
+      "plaats": "Land van Cuijk",
+      "provincie": "Noord-Brabant",
+      "inwoners": 91725
+    },
+    {
+      "plaats": "Sittard-Geleen",
+      "provincie": "Limburg",
+      "inwoners": 92624
+    },
+    {
+      "plaats": "Hilversum",
+      "provincie": "Noord-Holland",
+      "inwoners": 94426
+    },
+    {
+      "plaats": "Oss",
+      "provincie": "Noord-Brabant",
+      "inwoners": 94643
+    },
+    {
+      "plaats": "Amstelveen",
+      "provincie": "Noord-Holland",
+      "inwoners": 95007
+    },
+    {
+      "plaats": "Purmerend",
+      "provincie": "Noord-Holland",
+      "inwoners": 95177
+    },
+    {
+      "plaats": "Helmond",
+      "provincie": "Noord-Brabant",
+      "inwoners": 95884
+    },
+    {
+      "plaats": "Deventer",
+      "provincie": "Overijssel",
+      "inwoners": 103402
+    },
+    {
+      "plaats": "Venlo",
+      "provincie": "Limburg",
+      "inwoners": 103785
+    },
+    {
+      "plaats": "Emmen",
+      "provincie": "Drenthe",
+      "inwoners": 109361
+    },
+    {
+      "plaats": "Delft",
+      "provincie": "Zuid-Holland",
+      "inwoners": 109573
+    },
+    {
+      "plaats": "Alkmaar",
+      "provincie": "Noord-Holland",
+      "inwoners": 112311
+    },
+    {
+      "plaats": "Alphen aan den Rijn",
+      "provincie": "Zuid-Holland",
+      "inwoners": 114968
+    },
+    {
+      "plaats": "Westland",
+      "provincie": "Zuid-Holland",
+      "inwoners": 115984
+    },
+    {
+      "plaats": "Dordrecht",
+      "provincie": "Zuid-Holland",
+      "inwoners": 122089
+    },
+    {
+      "plaats": "Ede",
+      "provincie": "Gelderland",
+      "inwoners": 123489
+    },
+    {
+      "plaats": "Maastricht",
+      "provincie": "Limburg",
+      "inwoners": 125203
+    },
+    {
+      "plaats": "Zoetermeer",
+      "provincie": "Zuid-Holland",
+      "inwoners": 128424
+    },
+    {
+      "plaats": "Leeuwarden",
+      "provincie": "Friesland",
+      "inwoners": 128857
+    },
+    {
+      "plaats": "Leiden",
+      "provincie": "Zuid-Holland",
+      "inwoners": 130181
+    },
+    {
+      "plaats": "Zwolle",
+      "provincie": "Overijssel",
+      "inwoners": 133133
+    },
+    {
+      "plaats": "'s-Hertogenbosch",
+      "provincie": "Noord-Brabant",
+      "inwoners": 160740
+    },
+    {
+      "plaats": "Zaanstad",
+      "provincie": "Noord-Holland",
+      "inwoners": 161429
+    },
+    {
+      "plaats": "Enschede",
+      "provincie": "Overijssel",
+      "inwoners": 161741
+    },
+    {
+      "plaats": "Amersfoort",
+      "provincie": "Utrecht",
+      "inwoners": 161825
+    },
+    {
+      "plaats": "Haarlemmermeer",
+      "provincie": "Noord-Holland",
+      "inwoners": 163196
+    },
+    {
+      "plaats": "Arnhem",
+      "provincie": "Gelderland",
+      "inwoners": 167651
+    },
+    {
+      "plaats": "Haarlem",
+      "provincie": "Noord-Holland",
+      "inwoners": 167763
+    },
+    {
+      "plaats": "Apeldoorn",
+      "provincie": "Gelderland",
+      "inwoners": 168212
+    },
+    {
+      "plaats": "Nijmegen",
+      "provincie": "Gelderland",
+      "inwoners": 187011
+    },
+    {
+      "plaats": "Breda",
+      "provincie": "Noord-Brabant",
+      "inwoners": 188217
+    },
+    {
+      "plaats": "Almere",
+      "provincie": "Flevoland",
+      "inwoners": 226630
+    },
+    {
+      "plaats": "Tilburg",
+      "provincie": "Noord-Brabant",
+      "inwoners": 229797
+    },
+    {
+      "plaats": "Groningen",
+      "provincie": "Groningen",
+      "inwoners": 243833
+    },
+    {
+      "plaats": "Eindhoven",
+      "provincie": "Noord-Brabant",
+      "inwoners": 246443
+    },
+    {
+      "plaats": "Utrecht",
+      "provincie": "Utrecht",
+      "inwoners": 374411
+    },
+    {
+      "plaats": "Den Haag",
+      "provincie": "Zuid-Holland",
+      "inwoners": 565701
+    },
+    {
+      "plaats": "Rotterdam",
+      "provincie": "Zuid-Holland",
+      "inwoners": 671125
+    },
+    {
+      "plaats": "Amsterdam",
+      "provincie": "Noord-Holland",
+      "inwoners": 934927
+    }
+  ]
